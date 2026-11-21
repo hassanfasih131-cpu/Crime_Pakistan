@@ -26,3 +26,19 @@ https://opendata.com.pk/dataset/crimes-reported-by-type-and-provinces-in-pakista
 2  Decision Tree Regressor           515.384615        2543.641272  0.906330
 3  Random Forest Regressor           666.351980        2743.869371  0.891003
 
+
+
+## Findings or Recommendations:
+- For the most part the crime rate in the Main Provinces is much higher and lean more towards the positive side
+- Despite being part of the Main Province, Balochistan in some cases lean more towards the negative side, likely due to its smaller population compared to the other provinces
+- For the Special jurisdictions crime rate lean more towards the negative.
+- Pakistan railways have an overall low crime baseline but it spiked considerably in case of Other/Petty Theft
+- Violent crimes like Murder is more common in Balochistan compared to the other crime types
+- Cattle theft is less common in more urbanised regions such as Islamabad, but more common in places that depend on live stock for -income such as Gilgit Baltistan
+- Dacocity consistently shows a negative baseline, showing that it is much more rare nation wide
+
+## Limitations:
+- There is limited data of only 3 years with a small sample size, which limited the information we could gather
+- The model predicts raw reported counts rather than per-capita crime rates, heavily populated provinces like Punjab appear more dangerous regardless of the actual risk per area
+
+Feature impotance does not prove causation
