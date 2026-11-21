@@ -20,6 +20,8 @@ https://opendata.com.pk/dataset/crimes-reported-by-type-and-provinces-in-pakista
 
 ## Results
 
+Different models are compared
+
 <img width="503" height="169" alt="image" src="https://github.com/user-attachments/assets/6bf34db6-9251-44a4-bda8-6e54711fa431" />
 
 ## Findings or Recommendations:
