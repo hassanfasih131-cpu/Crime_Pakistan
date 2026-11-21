@@ -20,15 +20,7 @@ https://opendata.com.pk/dataset/crimes-reported-by-type-and-provinces-in-pakista
 
 ## Results
 
-0                     Model     Mean Absolute Error     Mean Square Error     R2 Score
-
-0                   Baseline              891.134134           2594.555477     0.902543
-
-1                 Ridge/Lasso              164.224921            492.503075     0.996488
-
-2     Decision Tree Regressor           515.384615        2543.641272     0.906330
-
-3     Random Forest Regressor              666.351980           2743.869371     0.891003
+<img width="527" height="98" alt="image" src="https://github.com/user-attachments/assets/bb8f11b7-c2f0-4d33-9816-da36a785dbbd" />
 
 
 
