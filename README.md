@@ -59,7 +59,7 @@ Install the file from the link above for analysis
 - Crime_Pakistan.ipynb
 - README.md
 - requirements.txt
-- images.md
+- images
 
 ## Author
 
