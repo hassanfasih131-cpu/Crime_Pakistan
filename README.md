@@ -48,6 +48,10 @@ pip install -r requirements.txt
 
 Crime_Pakistan.ipynb
 
+Use Google Collab / Jupyter
+
+Install the file from the link above for analysis
+
 ## Structure
 
 - Crime_Pakistan.ipynb
