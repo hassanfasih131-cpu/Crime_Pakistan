@@ -53,7 +53,7 @@ Crime_Pakistan.ipynb
 - Crime_Pakistan.ipynb
 - README.md
 - requirements.txt
-- images
+- images.md
 
 ## Author
 
