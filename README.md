@@ -40,5 +40,12 @@ https://opendata.com.pk/dataset/crimes-reported-by-type-and-provinces-in-pakista
 ## Limitations:
 - There is limited data of only 3 years with a small sample size, which limited the information we could gather
 - The model predicts raw reported counts rather than per-capita crime rates, heavily populated provinces like Punjab appear more dangerous regardless of the actual risk per area
+Feature importance does not prove causation
+##Example Prediction
 
-Feature impotance does not prove causation
+   Year     Region Type of Crime  Predicted_Crimes
+0  2021     Punjab         Theft             15206
+1  2021  Islamabad        Murder                59
+2  2021      Sindh      Dacocity               703
+3  2021        KPK       Robbery               284
+
