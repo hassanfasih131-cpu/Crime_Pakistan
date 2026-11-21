@@ -36,8 +36,25 @@ https://opendata.com.pk/dataset/crimes-reported-by-type-and-provinces-in-pakista
 - The model predicts raw reported counts rather than per-capita crime rates, heavily populated provinces like Punjab appear more dangerous regardless of the actual risk per area
 Feature importance does not prove causation
 
-##Example Prediction
+## Example Prediction
 
 <img width="376" height="90" alt="image" src="https://github.com/user-attachments/assets/01b0a831-f2fb-485e-8b7e-1c6d7c12acdb" />
 
+## How to run
 
+repo link: https://github.com/hassanfasih131-cpu/Crime_Pakistan.git
+
+pip install -r requirements.txt
+
+Crime_Pakistan.ipynb
+
+## Structure
+
+- Crime_Pakistan.ipynb
+- README.md
+- requirements.txt
+- images
+
+## Author
+
+Hassan Fasih
