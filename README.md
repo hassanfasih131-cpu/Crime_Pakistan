@@ -1,8 +1,8 @@
-# Crime Analysis in Pakistan
+# Crime Analysis in Pakistan / Capstone Project Month 4
 
 ## Introduction 
 
-The available dataset of 3 years is used to predict crime counts of specific crimes in different regions of Pakistan. This is regression problem, it is useful for the police to plan resources, see trends and identify high risk areas.
+The available dataset of 3 years is used to predict crime counts of specific crimes in different regions of Pakistan. This is regression problem, it is useful for the justice system to plan resources, see trends, identify high risk areas, and overall see the bigger picture of public safety in Pakistan.
 
 ## Dataset
 
