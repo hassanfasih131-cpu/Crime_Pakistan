@@ -52,7 +52,7 @@ Crime_Pakistan.ipynb
 
 Use Google Collab / Jupyter
 
-Install the file from the link above for analysis
+Install the file from the link above in the dataset heading for analysis
 
 ## Structure
 
