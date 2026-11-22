@@ -55,11 +55,11 @@ Use Google Collab / Jupyter
 Install the file from the link above in the dataset heading for analysis
 
 ## Structure
-
-- Crime_Pakistan.ipynb
-- README.md
-- requirements.txt
-- images
+|
+|-- Crime_Pakistan.ipynb
+|-- README.me
+  |_ images
+|-- requirements.txt
 
 ## Author
 
